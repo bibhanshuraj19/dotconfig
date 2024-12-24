@@ -1,6 +1,6 @@
 sketchybar --add item media center \
            --set media label.color=$ACCENT_COLOR \
-                       label.max_chars=20 \
+                       label.max_chars=30 \
                        icon.padding_left=0 \
                        scroll_text=on \
                        icon=􀑪 \

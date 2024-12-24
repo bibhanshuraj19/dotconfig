@@ -1,5 +1,3 @@
-#!/bin/bash
-
 sketchybar --add item media center \
            --set media label.color=$ACCENT_COLOR \
                        label.max_chars=20 \
